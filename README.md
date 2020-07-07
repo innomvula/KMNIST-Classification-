@@ -1,2 +1,2 @@
-# KMNIST-Classification-
+# KMNIST-Classification
 Classifying handwritten digits 
